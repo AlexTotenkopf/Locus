@@ -1,0 +1,13 @@
+<locusActions>
+<download>
+<source>
+<![CDATA[
+https://github.com/AlexTotenkopf/Locus/raw/master/AlexTotenkopf.Locus.Maps.zip
+]]>
+</source>
+<dest>
+<![CDATA[ /mapsOnline/custom/AlexTotenkopf.Locus.Maps.zip ]]>
+</dest>
+<after>extract|deleteSource|refreshMap</after>
+</download>
+</locusActions>
