@@ -6,7 +6,7 @@ https://github.com/AlexTotenkopf/Locus/blob/master/AlexTotenkopf.Locus.Maps.zip?
 ]]>
 </source>
 <dest>
-<![CDATA[ /mapsOnline/custom/AlexTotenkopf.Locus.Maps.zip ]]>
+<![CDATA[/mapsOnline/custom/AlexTotenkopf.Locus.Maps.zip]]>
 </dest>
 <after>extract|deleteSource|refreshMap</after>
 </download>
