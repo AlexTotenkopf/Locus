@@ -1,7 +1,7 @@
 <locusActions>
 	<download>
 		<source>
-			<![CDATA[https://github.com/AlexTotenkopf/Locus/blob/master/AlexTotenkopf.Locus.Maps.zip?raw=true]]>
+			<![CDATA[https://github.com/AlexTotenkopf/Locus/raw/master/AlexTotenkopf.Locus.Maps.zip]]>
 		</source>
 		<dest>
 			<![CDATA[/mapsOnline/custom/AlexTotenkopf.Locus.Maps.zip]]>
